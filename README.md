@@ -217,6 +217,7 @@
 
 
 ## 🔧 Utility & Automation  
+- [Game Navigator](https://github.com/RayJiang4S/game-navigator-skill) - Game-aware guidance for routes, equipment, skills, and story choices through a local connector. MIT-licensed Skill; the companion service requires sign-in and offers trials and paid access.
 - [file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) - Intelligently organizes your files and folders across your computer.
 - [invoice-organizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/invoice-organizer/SKILL.md) - Automatically organizes invoices and receipts for tax preparation
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Template / helper to build new Claude skills.  
